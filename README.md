@@ -1,2 +1,2 @@
 # blog_ci
-用ci做的一个blog系统
+use ci make a blog
